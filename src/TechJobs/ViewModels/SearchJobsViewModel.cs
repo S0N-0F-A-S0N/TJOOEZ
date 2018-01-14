@@ -15,6 +15,7 @@ namespace TechJobs.ViewModels
         public SearchJobsViewModel()
         {
             Column = JobFieldType.All;
+            super();
         }
     }
 }
